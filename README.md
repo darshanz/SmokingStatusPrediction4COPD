@@ -3,7 +3,7 @@
 **Supplementary Data for:**  
 **Development of a deep learning model to predict smoking status in patients with chronic obstructive pulmonary disease: A secondary analysis of cross-sectional national survey **
 
-> **Note:** This repository has been created to support replication of methods described in a research article: https://doi.org/10.1177/2055207625.
+> **Note:** This repository has been created to support replication of methods described in a research article: https://doi.org/10.1177/205520762513336
 
 ---
 
@@ -27,7 +27,7 @@ We developed a Residual Neural Network (ResNN) architecture—a feedforward neur
 
 ## 📊 Experiment Results
 
-The proposed model achieved superior performance (AUROC 0.73, sensitivity 70.1%, specificity 75.2%, F1-score 0.67) in predicting smoking status in COPD patients, with SHAP analysis highlighting sex, age, and perceived health status as key predictors. [More ...](https://doi.org/10.1177/2055207625.)
+The proposed model achieved superior performance (AUROC 0.73, sensitivity 70.1%, specificity 75.2%, F1-score 0.67) in predicting smoking status in COPD patients, with SHAP analysis highlighting sex, age, and perceived health status as key predictors. [More ...](https://doi.org/10.1177/205520762513336)
 
 ## 📌 Citation
 
